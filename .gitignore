@@ -1,2 +1,9 @@
 .venv
-data
+data/
+Data/
+notebook/
+notebooks/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
