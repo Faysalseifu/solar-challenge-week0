@@ -1,2 +1,22 @@
-.venv
-Data
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+.env
+.envrc
+.DS_Store
+.pytest_cache/
+
+# Data files (uncomment to ignore CSVs in Data/; some projects prefer keeping sample CSVs)
+# Data/*.csv
+
+# Jupyter
+.jupyter/
+
+# Virtualenvs
+/.venv/
+venv/
+env/
+
+# Local data and environment
+.env
